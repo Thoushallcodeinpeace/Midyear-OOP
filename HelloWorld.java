@@ -5,5 +5,6 @@ public class HelloWorld
 		System.out.println("Hello World Aris");
 
 		System.out.println("Halu");
+		System.out.println("Mugana?")
 	}
 }
